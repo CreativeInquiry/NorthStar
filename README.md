@@ -1,5 +1,6 @@
 # North Star
-Information about the STUDIO's North Star AR headset
+Information about the STUDIO's North Star AR headset.
+
 The project is the work of CMU North Star Institute (Active from Fall 2018 - Fall 2019) - Gray Crawford, Cameron Burgess, Xiangyu Sun, Gautam Bose, Lucas Ochoa, Yuzin Ariza, Marisa Lu - Funded by a FRFAF Grant from the STUDIO and project grant from the CMU Entertainment Technology Center.
 
 # North Star Setup
