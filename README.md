@@ -32,3 +32,4 @@ The project is the work of CMU North Star Institute (Active from Fall 2018 - Fal
  - [North Star Project Overview](https://leapmotion.github.io/ProjectNorthStar/)
  - [North Star Project Repository](https://github.com/leapmotion/ProjectNorthStar/)
  - [North Star Discord Community Forum](https://discord.gg/ATPm9Fy)
+ - [Camera Calibration Video Instructions](https://www.youtube.com/watch?v=twyUk7MtiHo)
