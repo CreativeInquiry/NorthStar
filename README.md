@@ -33,3 +33,7 @@ The project is the work of CMU North Star Institute (Active from Fall 2018 - Fal
  - [North Star Project Repository](https://github.com/leapmotion/ProjectNorthStar/)
  - [North Star Discord Community Forum](https://discord.gg/ATPm9Fy)
  - [Camera Calibration Video Instructions](https://www.youtube.com/watch?v=twyUk7MtiHo)
+ 
+ # Calibration Files
+ - [STUDIO Headset](https://github.com/CreativeInquiry/NorthStar/blob/master/north%20star%201/Assets/CalibrationFiles/STUDIO.json)
+ 
